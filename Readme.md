@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Use AJAX Extenders in the EditForm template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e94)**
+<!-- run online end -->
 
 
 <p>This demo demonstrates how to use AJAX Extenders in the EditForm template.<br />
