@@ -1,6 +1,6 @@
 # Use AJAX Extenders in the EditForm template
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e94)**
+**[[Run Online]](https://codecentral.devexpress.com/e94/)**
 <!-- run online end -->
 
 
